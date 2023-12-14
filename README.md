@@ -1,1 +1,3 @@
-# cow205-clicker
+# Cow205 Clicker
+
+Game
